@@ -1,0 +1,7 @@
+define('DB_NAME', 'zico');
+define('DB_USER', 'zico');
+define('DB_PASSWORD', 'sWfCsfJSPV9H3AmQzw8');
+define('DB_HOST', 'zico');
+define('DB_CHARSET', 'utf8');
+define('DB_COLLATE', '');
+                          
